@@ -1,0 +1,7 @@
+.closebtn{
+    border: none; 
+    background-color: white;
+    position: absolute;
+    right :10px;
+    top: 10px
+}
