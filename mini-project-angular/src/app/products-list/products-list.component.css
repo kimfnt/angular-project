@@ -1,0 +1,69 @@
+.products {
+  margin: 0 0 2em 0;
+  list-style-type: none;
+  padding: 0;
+  width: 300px;
+}
+
+.products li {
+  display: flex;
+  height: 70px;
+}
+
+.products button {
+  flex: 1;
+  cursor: pointer;
+  background-color: white;
+  margin: .5em;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  border: none;
+  padding-right: 0px;
+  padding: 0;
+  padding-left: 10px;
+}
+
+.products button:hover {
+  color: #2c3a41;
+  background-color: #e6e6e6;
+  left: .1em;
+}
+
+.products button:active {
+  background-color: #525252;
+  color: #fafafa;
+}
+
+.products button.selected {
+  background: linear-gradient(102.7deg, rgb(253, 218, 255) 8.2%, rgb(223, 173, 252) 19.6%, rgb(173, 205, 252) 36.8%, rgb(173, 252, 244) 73.2%, rgb(202, 248, 208) 90.9%);
+}
+
+.products button.selected:hover {
+  background-color: #505050;
+}
+
+.products button.selected:active {
+  background-color: black;
+}
+
+.products .name {
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+  line-height: 1em;
+  margin-right: auto;
+  border-radius: 4px 0 0 4px;
+}
+
+.products .price {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #405061;
+  color: white;
+  border-radius: 0px 4px 4px 0px;
+  font-size: small;
+  width: 60px;
+  height: 100%;
+}
