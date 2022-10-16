@@ -1,0 +1,52 @@
+.profile-picture {
+  width: 100px;
+  height: 100px;
+  padding: 0;
+  border-radius: 50%;
+  position: relative;
+  top: 40px;
+  background-color: white;
+}
+
+.card-body {
+  height: 70%;
+}
+
+.header {
+  background: linear-gradient(102.7deg, rgb(253, 218, 255) 8.2%, rgb(223, 173, 252) 19.6%, rgb(173, 205, 252) 36.8%, rgb(173, 252, 244) 73.2%, rgb(202, 248, 208) 90.9%);
+  display: flex;
+  justify-content: center;
+  height: 30%;
+}
+
+
+i {
+  margin-right: 10px;
+}
+
+.card-title {
+  margin-bottom: 0;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  margin-top: 10px;
+}
+
+.content {
+  margin-left: 10px;
+}
+
+.card {
+  top: 5rem;
+  width: 350px;
+  height: 400px;
+  border: none;
+}
+
+.row {
+  margin: 0;
+}
