@@ -14,9 +14,4 @@ export class ProductBoxComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
-  // closeDetailView():void {
-  //   this.product=undefined;
-  // }
-
 }

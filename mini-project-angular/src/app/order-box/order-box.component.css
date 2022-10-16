@@ -1,0 +1,37 @@
+.card {
+  top: 5rem;
+  width: 400px;
+  height: fit-content;
+  border: none;
+}
+
+.row {
+  margin: 0;
+}
+
+.card-title {
+  margin-bottom: 0;
+}
+
+.title {
+  display: flex;
+  align-content: center;
+  background: linear-gradient(102.7deg, rgb(253, 218, 255) 8.2%, rgb(223, 173, 252) 19.6%, rgb(173, 205, 252) 36.8%, rgb(173, 252, 244) 73.2%, rgb(202, 248, 208) 90.9%);
+  height: 80px;
+}
+
+.products {
+  list-style-type: none;
+  padding: 0;
+  margin-left: 50px;
+}
+
+.final {
+  margin-left: 200px;
+  margin-top: 20px;
+}
+
+p {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 20px;
+}

@@ -9,7 +9,7 @@ import { User } from '../user';
 })
 export class UsersListComponent implements OnInit {
 
-  selectedUser?:User;
+  selectedUser?: User;
 
   users: Array<User> | undefined;
 
@@ -25,8 +25,8 @@ export class UsersListComponent implements OnInit {
     })
   }
 
-  onSelect(user:User):void{
-    this.selectedUser=user;
+  onSelect(user: User): void {
+    this.selectedUser = user;
   }
 
 }

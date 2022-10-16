@@ -5,7 +5,6 @@
             <ul class="products">
                 <li *ngFor="let product of products">
                     <button type="button" (click)="onSelect(product)" [class.selected]="product===selectedProduct">
-                        <!-- <img src="https://emojifinder.com/{{product.name}}" alt=""> -->
                         <span class="name">{{product.name}}</span>
                         <span class="price">{{product.price}}€</span>
                     </button>

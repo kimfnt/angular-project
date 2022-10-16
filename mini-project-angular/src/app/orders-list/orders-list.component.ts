@@ -9,6 +9,8 @@ import { Order } from '../order';
 })
 export class OrdersListComponent implements OnInit {
 
+  selectedOrder?: Order;
+
   orders: Array<Order> | undefined;
 
   constructor(private orderService: OrderService) { }
@@ -21,6 +23,10 @@ export class OrdersListComponent implements OnInit {
     this.orderService.getOrders().subscribe((_orders: any) => {
       this.orders = _orders;
     })
+  }
+
+  onSelect(order: Order): void {
+    this.selectedOrder = order;
   }
 
 }

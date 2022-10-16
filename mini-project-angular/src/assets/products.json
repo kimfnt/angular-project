@@ -3,336 +3,329 @@
         "name": "Pasta Lasagne",
         "description": "Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",
         "price": 10.25,
-        "weight": 95.52
-    },
-    {
-        "name": "Doilies",
-        "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",
-        "price": 13.96,
-        "weight": 611.81
+        "weight": 95.52,
+        "url": "https://static.onecms.io/wp-content/uploads/sites/34/2020/11/23/ultimate-lasagna-pan-1018-61c58af0-onecms.jpg"
     },
     {
         "name": "Mango Juice",
         "description": "Duis aliquam convallis nunc.",
         "price": 7.55,
-        "weight": 752.34
+        "weight": 752.34,
+        "url": "https://healthiersteps.com/wp-content/uploads/2021/02/mango-juice-drink2.jpg"
     },
     {
         "name": "Italian Bread",
         "description": "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
         "price": 13.77,
-        "weight": 645.45
+        "weight": 645.45,
+        "url": "https://www.girlversusdough.com/wp-content/uploads/2020/04/italian-bread-3.jpg"
     },
     {
         "name": "Soup Campbells",
         "description": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.",
         "price": 3.33,
-        "weight": 483.86
+        "weight": 483.86,
+        "url": "https://www.passion-estampes.com/deco2/warhol/warhol-campbell-s-tomato-soup-1968.jpg"
     },
     {
         "name": "Baguette",
         "description": "Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy.",
         "price": 5.94,
-        "weight": 117.44
+        "weight": 117.44,
+        "url": "https://www.yumelise.fr/wp-content/uploads/2022/04/baguette-tradition.jpg"
     },
     {
         "name": "Appetizer",
         "description": "Aenean lectus.",
         "price": 5.61,
-        "weight": 220.43
+        "weight": 220.43,
+        "url": "https://www.familyfreshmeals.com/wp-content/uploads/2018/11/Easy-Creamy-Prosciutto-Cracker-Appetizer-Recipe-Family-Fresh-Meals.jpg"
     },
     {
         "name": "Irish Cream",
         "description": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",
         "price": 13.66,
-        "weight": 709.43
+        "weight": 709.43,
+        "url": "https://www.thepetitecook.com/wp-content/uploads/2014/11/irish-cream-recipe.jpg"
     },
     {
         "name": "Bagel Bread",
         "description": "Donec posuere metus vitae ipsum. Aliquam non mauris.",
         "price": 2.83,
-        "weight": 252.65
+        "weight": 252.65,
+        "url": "https://sallysbakingaddiction.com/wp-content/uploads/2018/12/bagels.jpg"
     },
     {
         "name": "Olive Oil",
         "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.",
         "price": 14.74,
-        "weight": 646.78
+        "weight": 646.78,
+        "url": "https://cdn-prod.medicalnewstoday.com/content/images/articles/321/321246/olive-oil-in-a-bottle-which-may-be-used-on-the-face.jpg"
     },
     {
         "name": "Ham",
         "description": "Morbi a ipsum. Integer a nibh.",
         "price": 15.3,
-        "weight": 466.29
-    },
-    {
-        "name": "Gatorade",
-        "description": "Curabitur at ipsum ac tellus semper interdum.",
-        "price": 11.44,
-        "weight": 628.45
+        "weight": 466.29,
+        "url": "http://www.nigella.com/assets/uploads/recipes/slow-cooked-black-treacle-ham-56ce342503e73.jpg"
     },
     {
         "name": "Butter",
         "description": "Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
         "price": 6.36,
-        "weight": 81.23
+        "weight": 81.23,
+        "url": "https://cdn.britannica.com/27/122027-050-EAA86783/Butter.jpg"
     },
     {
         "name": "Smoked Trout",
         "description": "Cras non velit nec nisi vulputate nonummy.",
         "price": 12.03,
-        "weight": 36.89
+        "weight": 36.89,
+        "url": "https://honest-food.net/wp-content/uploads/2018/06/smoked-trout-with-salmon.jpg"
     },
     {
         "name": "Brown Sugar",
         "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",
         "price": 2.29,
-        "weight": 999.66
+        "weight": 999.66,
+        "url": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/EF3CB0F8-C9BA-48AC-B7CB-FC8B7FE94AB6/Derivates/8A596E6E-5B6B-4CC3-8945-CA3C2F046984.jpg"
     },
     {
         "name": "Cinnamon Rolls",
         "description": "Nulla nisl.",
         "price": 5.89,
-        "weight": 786.67
+        "weight": 786.67,
+        "url": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/086c2cec-ac6e-4194-a156-f090a5e9c7af/Derivates/fa851505-6649-4678-b493-291f4dad822a.jpg"
     },
     {
-        "name": "Chicken - Whole",
+        "name": "Roast Chicken",
         "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",
         "price": 10.38,
-        "weight": 521.44
+        "weight": 521.44,
+        "url": "https://static01.nyt.com/images/2020/03/25/dining/18clark-roast-chicken/clark-roast-chicken-square640-v4.jpg"
     },
     {
         "name": "Instant Noodles",
         "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",
         "price": 15.32,
-        "weight": 933.08
+        "weight": 933.08,
+        "url": "https://www.foodbymaria.com/wp-content/uploads/2022/02/Instant-Noodles-6-scaled.jpg"
     },
     {
         "name": "Hamburger",
         "description": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna.",
         "price": 14.06,
-        "weight": 661.82
+        "weight": 661.82,
+        "url": "https://img.cuisineaz.com/660x660/2013/12/20/i9380-hamburger.jpeg"
     },
     {
         "name": "Potato",
         "description": "Aenean fermentum.",
         "price": 5.0,
-        "weight": 95.43
+        "weight": 95.43,
+        "url": "https://images.theconversation.com/files/401955/original/file-20210520-23-83r6ds.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop"
     },
     {
         "name": "Walnut",
         "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
         "price": 10.47,
-        "weight": 7.15
+        "weight": 7.15,
+        "url": "https://5.imimg.com/data5/HZ/AB/FX/SELLER-84813594/walnut-kernel-500x500.jpg"
     },
     {
-        "name": "Tomatoes",
+        "name": "Tomato",
         "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
         "price": 15.09,
-        "weight": 209.43
+        "weight": 209.43,
+        "url": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/tomatoes-1296x728-feature.jpg"
     },
     {
         "name": "Fanta",
         "description": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis.",
         "price": 10.33,
-        "weight": 81.95
+        "weight": 81.95,
+        "url": "https://foodcircle-kw.com/files/260116287489396114bc8b73819.jpg"
     },
     {
         "name": "Cheese - Mix",
         "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",
         "price": 7.25,
-        "weight": 810.3
+        "weight": 810.3,
+        "url": "https://static.toiimg.com/thumb/82065684.cms?resizemode=4&width=1200"
     },
     {
         "name": "Macaron",
         "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis.",
         "price": 7.35,
-        "weight": 73.83
-    },
-    {
-        "name": "Tomatoes - Diced, Canned",
-        "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.",
-        "price": 15.92,
-        "weight": 117.14
+        "weight": 73.83,
+        "url": "https://sallysbakingaddiction.com/wp-content/uploads/2021/02/french-macarons.jpg"
     },
     {
         "name": "Bay Leaf",
         "description": "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.",
         "price": 2.65,
-        "weight": 354.51
+        "weight": 354.51,
+        "url": "https://www.simplyrecipes.com/thmb/5-Isgg_1Hhi-TUbmztjCGOSdCIY=/2800x4200/filters:fill(auto,1)/Simply-Recipes-Guide-Bay-Leaves-LEAD-1-d2ae4d3633d045139a1abe2496d5e32f.jpg"
     },
     {
         "name": "Ramen",
         "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna.",
         "price": 13.24,
-        "weight": 760.62
+        "weight": 760.62,
+        "url": "https://lacerisesurlemaillot.fr/wp-content/uploads/2021/10/ramen-poulet.jpg"
     },
     {
         "name": "Whiskey",
         "description": "Nulla tellus. In sagittis dui vel nisl.",
         "price": 1.0,
-        "weight": 484.31
+        "weight": 484.31,
+        "url": "https://images.news18.com/ibnlive/uploads/2021/12/whiskey-on-the-rocks.jpg"
     },
     {
         "name": "White Pepper",
         "description": "In blandit ultrices enim.",
         "price": 3.94,
-        "weight": 17.74
+        "weight": 17.74,
+        "url": "https://cdn.store-factory.com/www.culinaide.com/content/product_11192199b.png?v=1605604319"
     },
     {
         "name": "Pineapple",
         "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
         "price": 8.9,
-        "weight": 597.67
+        "weight": 597.67,
+        "url": "https://media.self.com/photos/5b4371cc4d0c3c282a8878d3/4:3/w_2560%2Cc_limit/pineapple.jpg"
     },
     {
         "name": "Sesame Oil",
         "description": "Morbi non quam nec dui luctus rutrum.",
         "price": 2.54,
-        "weight": 623.64
+        "weight": 623.64,
+        "url": "https://images.healthshots.com/healthshots/en/uploads/2021/12/09173529/sesame.jpg"
     },
     {
         "name": "Ice Tea",
         "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",
         "price": 8.52,
-        "weight": 923.49
-    },
-    {
-        "name": "Bagels Poppyseed",
-        "description": "Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",
-        "price": 15.66,
-        "weight": 544.48
+        "weight": 923.49,
+        "url": "https://i.pinimg.com/474x/0e/92/f4/0e92f43c3f4cae83e8e5a07817407665.jpg"
     },
     {
         "name": "Enoki Mushroom",
         "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",
         "price": 10.68,
-        "weight": 736.24
+        "weight": 736.24,
+        "url": "https://www.thespruceeats.com/thmb/Qih_WGJRgtVdbPlSNAmhm0wm02g=/1000x1000/smart/filters:no_upscale()/what-are-enoki-mushrooms-5197552-hero-03-0ca0f483b22f47b39249726bb91ef082.jpg"
     },
     {
         "name": "Cheddar Cheese",
         "description": "Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
         "price": 8.8,
-        "weight": 288.92
+        "weight": 288.92,
+        "url": "https://cdnimg.webstaurantstore.com/images/products/large/485710/1814631.jpg"
     },
     {
         "name": "Lobster",
         "description": "Morbi a ipsum. Integer a nibh. In quis justo.",
         "price": 14.06,
-        "weight": 290.5
+        "weight": 290.5,
+        "url": "https://therecipecritic.com/wp-content/uploads/2020/01/broiled_lobster-500x500.jpg"
     },
     {
         "name": "Apple Tart",
         "description": "Proin risus. Praesent lectus.",
         "price": 11.29,
-        "weight": 874.79
+        "weight": 874.79,
+        "url": "https://therecipecritic.com/wp-content/uploads/2021/08/appletart.jpg"
     },
     {
         "name": "White Wine",
         "description": "Duis mattis egestas metus. Aenean fermentum.",
         "price": 7.62,
-        "weight": 474.72
-    },
-    {
-        "name": "Chocolate",
-        "description": "Duis at velit eu est congue elementum. In hac habitasse platea dictumst.",
-        "price": 11.48,
-        "weight": 836.25
-    },
-    {
-        "name": "Beer",
-        "description": "Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.",
-        "price": 4.15,
-        "weight": 824.26
-    },
-    {
-        "name": "Tomatoes",
-        "description": "Duis mattis egestas metus. Aenean fermentum.",
-        "price": 10.81,
-        "weight": 688.4
+        "weight": 474.72,
+        "url": "https://cf.ltkcdn.net/wine/images/orig/203167-2121x1414-whitewine.jpg"
     },
     {
         "name": "Coca Cola",
         "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
         "price": 6.35,
-        "weight": 908.79
+        "weight": 908.79,
+        "url": "https://storage0.dms.mpinteractiv.ro/media/401/341/5531/16106019/1/alege-ti-coca-cola-preferata.jpg"
     },
     {
         "name": "Macaroni",
         "description": "Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.",
         "price": 13.99,
-        "weight": 944.96
-    },
-    {
-        "name": "Red Wine",
-        "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",
-        "price": 12.54,
-        "weight": 537.86
-    },
-    {
-        "name": "Champagne",
-        "description": "Praesent lectus.",
-        "price": 11.97,
-        "weight": 46.34
+        "weight": 944.96,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Macaroni_top.jpg/1200px-Macaroni_top.jpg"
     },
     {
         "name": "Green Tea",
         "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
         "price": 10.81,
-        "weight": 58.63
+        "weight": 58.63,
+        "url": "https://lacarte.menu/storage/media/dishes_main/2286529/green-tea.jpg"
     },
     {
         "name": "Foccacia",
         "description": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio.",
         "price": 4.09,
-        "weight": 469.8
+        "weight": 469.8,
+        "url": "https://lacerisesurlemaillot.fr/wp-content/uploads/2021/06/foccacia-olives-tomates.jpg"
     },
     {
         "name": "Lettuce",
         "description": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue.",
         "price": 4.15,
-        "weight": 241.19
+        "weight": 241.19,
+        "url": "https://assets.epicurious.com/photos/5ef0e382c0f6cca21c0e6cd7/1:1/w_3466,h_3466,c_limit/Lettuce_HERO_060320_8897.jpg"
     },
     {
         "name": "Salmon",
         "description": "Praesent blandit lacinia erat.",
         "price": 2.28,
-        "weight": 845.82
+        "weight": 845.82,
+        "url": "https://assets.epicurious.com/photos/62d6c5146b6e74298a39d06a/2:3/w_2222,h_3333,c_limit/BakedSalmon_RECIPE_04142022_9780_final.jpg"
     },
     {
         "name": "Cappucino",
         "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum.",
         "price": 4.69,
-        "weight": 522.91
+        "weight": 522.91,
+        "url": "https://www.acouplecooks.com/wp-content/uploads/2020/10/how-to-make-cappuccino-005.jpg"
     },
     {
         "name": "Chocolate Muffin",
         "description": "Quisque ut erat.",
         "price": 14.27,
-        "weight": 438.05
+        "weight": 438.05,
+        "url": "https://marshasbakingaddiction.com/wp-content/uploads/2016/01/nutella-stuffed-double-chocolate-muffins-7.jpg"
     },
     {
         "name": "Sushi",
         "description": "Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
         "price": 5.31,
-        "weight": 50.9
+        "weight": 50.9,
+        "url": "https://www.kimchi-passion.fr/modules/prestablog/views/img/grid-for-1-7/up-img/59.jpg"
     },
     {
         "name": "Pork",
         "description": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue.",
         "price": 9.61,
-        "weight": 530.86
+        "weight": 530.86,
+        "url": "https://www.seriouseats.com/thmb/lpnrgXNY8ywLOylb28Od8sA7s0E=/1125x1125/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__02__20160208-sous-vide-pork-chop-guide-food-lab-37-9bfa2f9b8a464bccad99ea08423b9d8e.jpg"
     },
     {
         "name": "Vanilla Ice Cream",
         "description": "Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
         "price": 8.35,
-        "weight": 972.03
+        "weight": 972.03,
+        "url": "https://laurenslatest.com/wp-content/uploads/2020/08/vanilla-ice-cream-5-copy.jpg"
     },
     {
         "name": "Broccoli",
         "description": "Vestibulum ac est lacinia nisi venenatis tristique.",
         "price": 4.5,
-        "weight": 294.01
+        "weight": 294.01,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWDJAE7L-DHOFhVAfSnp5zRvKWnO3OWH4u_w&usqp=CAU"
     }
 ]

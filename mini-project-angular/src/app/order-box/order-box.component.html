@@ -1,1 +1,20 @@
-<p>order-box works!</p>
+<div *ngIf="order" class="card position-sticky shadow-sm">
+    <div class="row title">
+        <div class="col-7" style="align-self: center;">
+            <h4 class="card-title">Order #{{order.order_number}}</h4>
+        </div>
+        <div class="col-5" style="display: flex; flex-direction:column;">
+            <small class="card-text">Date : {{order.date}}</small>
+            <small class="card-text">From : {{order.user}}</small>
+        </div>
+    </div>
+    <div class="row">
+        <p style="margin-top: 10px">Description : </p>
+        <ul class="products">
+            <li *ngFor="let item of order.products">{{item}}</li>
+        </ul>
+    </div>
+    <div class="row final">
+        <p><strong>Total price : {{order.total_price}}€</strong></p>
+    </div>
+</div>

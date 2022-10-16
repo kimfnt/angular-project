@@ -10,7 +10,7 @@ import { OrdersListComponent } from './orders-list/orders-list.component';
 const routes: Routes = [
   { path: 'products-list', component: ProductsListComponent },
   { path: 'users-list', component: UsersListComponent },
-  { path: 'orders-list', component: OrdersListComponent },  
+  { path: 'orders-list', component: OrdersListComponent },
   { path: 'contact-form', component: ContactFormComponent },
 ];
 
