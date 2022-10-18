@@ -28,5 +28,4 @@ export class UsersListComponent implements OnInit {
   onSelect(user: User): void {
     this.selectedUser = user;
   }
-
 }
